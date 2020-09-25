@@ -1,0 +1,1 @@
+java -server -Xmx4G -jar thermos.jar nogui
