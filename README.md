@@ -1,7 +1,7 @@
 # ByteFactory
 Essa é uma modpack de Minecraft simples que eu montei para jogar com amigos. Atualmente, ela está na versão 1.12.2
 
-### É recomendado usar/alocar 3GB RAM para a modpack. Valor mínimo (-Xms) e valor máximo (-Xmx) devem estar em **3072m**, ou **3G**
+### É recomendado usar/alocar 3GB RAM para a modpack. Valor mínimo (-Xms) e valor máximo (-Xmx) devem estar em **3072M**, ou **3G**
 
 ### Argumentos JVM
 
