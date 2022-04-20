@@ -11,11 +11,19 @@ Essa é uma modpack de Minecraft simples que eu montei para jogar com amigos. At
 ```
 
 ### Para instalar (Technic Launcher):
-Basta procurar por "ByteFactory HEX" no launcher ou no site.
+Basta procurar por 
+
+> ByteFactory HEX
+
+no launcher ou no site. [(ou clique aqui)](https://www.technicpack.net/modpack/bytefactory-hex.1919014)
 
 ### Para instalar (MultiMC):
-1 - Vá até a última release, clique com o botão direito em "ByteFactory.HEX.xx.MultiMC.zip" e copie o link do arquivo, ou então baixe-o normalmente.
-2 - No MultiMC, crie uma nova instância e escolha a opção "Importar (.zip)". 
+
+1. Vá até a última release, clique com o botão direito em "ByteFactory.HEX.xx.MultiMC.zip" e copie o link do arquivo, ou então baixe-o normalmente.
+
+2. No MultiMC, crie uma nova instância e escolha a opção "Importar (.zip)". 
+
 Se você baixou, carregue o arquivo .zip
 Se você copiou o link, cole-o na barra de texto ao lado do botão "Buscar"
-3 - Clique "OK"
+
+3. Clique "OK"
