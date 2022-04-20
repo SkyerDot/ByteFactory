@@ -10,13 +10,6 @@ Essa é uma modpack de Minecraft simples que eu montei para jogar com amigos. At
 -Xmn512m -XX:+AggressiveOpts -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:-UsePerfData -XX:MaxGCPauseMillis=200 -XX:ConcGCThreads=2 -XX:+UseG1GC -XX:InitiatingHeapOccupancyPercent=50 -XX:G1HeapRegionSize=1 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=8
 ```
 
-### Para instalar (Technic Launcher):
-Basta procurar por 
-
-> ByteFactory HEX
-
-no launcher ou no site. [(ou clique aqui)](https://www.technicpack.net/modpack/bytefactory-hex.1919014)
-
 ### Para instalar (MultiMC):
 
 1. Vá até a última release, clique com o botão direito em "ByteFactory.HEX.xx.MultiMC.zip" e copie o link do arquivo, ou então baixe-o normalmente.
