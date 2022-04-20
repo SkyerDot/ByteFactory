@@ -23,7 +23,7 @@ no launcher ou no site. [(ou clique aqui)](https://www.technicpack.net/modpack/b
 
 2. No MultiMC, crie uma nova instância e escolha a opção "Importar (.zip)". 
 
-Se você baixou, carregue o arquivo .zip
+Se você baixou, carregue o arquivo zip.
 Se você copiou o link, cole-o na barra de texto ao lado do botão "Buscar"
 
 3. Clique "OK"
