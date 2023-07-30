@@ -1,0 +1,14 @@
+name = "Diagonal Windows [Forge & Fabric]"
+filename = "DiagonalWindows-v4.0.2-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "196b125370ae2c64f25407c0d587e262532ca44a"
+
+[update]
+[update.curseforge]
+file-id = 4660580
+project-id = 891328

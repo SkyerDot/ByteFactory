@@ -1,0 +1,14 @@
+name = "Universal Enchants"
+filename = "UniversalEnchants-v4.2.15-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/DT56YDir/versions/N4CkR58u/UniversalEnchants-v4.2.15-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "89e5704ffd9e43229e447c93072f51e972c889085b75a899f2310dae500c6716ad5fd703aaf1350293290ed27b3579d743f704fd3833d74213cecebdd0eb3b66"
+
+[update]
+[update.modrinth]
+mod-id = "DT56YDir"
+version = "N4CkR58u"

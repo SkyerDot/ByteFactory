@@ -1,0 +1,14 @@
+name = "Trading Post"
+filename = "TradingPost-v4.2.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/8pcjMDgj/versions/VHjccmc4/TradingPost-v4.2.0-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "fa2ffb257def18e659a12225ac6b21f7d85b33c2c5bb5915732e9b6953fb55c4700fd43e946c5094f4107ac23fcfb25f32939a07f9670ab3fbb0bddd251d1866"
+
+[update]
+[update.modrinth]
+mod-id = "8pcjMDgj"
+version = "VHjccmc4"

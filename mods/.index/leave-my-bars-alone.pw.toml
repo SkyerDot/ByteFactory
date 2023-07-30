@@ -1,0 +1,14 @@
+name = "Leave My Bars Alone"
+filename = "LeaveMyBarsAlone-v4.0.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/gK9mebQg/versions/5ZVGevBq/LeaveMyBarsAlone-v4.0.0-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "7d1d441b44a05100bae6475a3ef1dd0516e23803141b69d038d889a0884a8e413a04926d0e8c68e444a4d760185d5fff5f7bb7f2c1671b91a48ece5750a0afa2"
+
+[update]
+[update.modrinth]
+mod-id = "gK9mebQg"
+version = "5ZVGevBq"

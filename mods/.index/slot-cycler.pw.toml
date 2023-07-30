@@ -1,0 +1,14 @@
+name = "Slot Cycler [Forge & Fabric]"
+filename = "SlotCycler-v4.0.3-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c8b5a32854c01b2b8429490fc86674f8a3a51835"
+
+[update]
+[update.curseforge]
+file-id = 4523758
+project-id = 682569

@@ -1,0 +1,14 @@
+name = "Pick Up Notifier"
+filename = "PickUpNotifier-v4.2.4-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZX66K16c/versions/vqctzfrm/PickUpNotifier-v4.2.4-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "3a43c84699d5b1d6e2c5146955f228b358eb88dbd7151c61927909a3b1c5d814ec902384dba31dbefc7107f776cf548de9b8af2684d3ea753893a195a150878e"
+
+[update]
+[update.modrinth]
+mod-id = "ZX66K16c"
+version = "vqctzfrm"

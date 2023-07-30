@@ -1,0 +1,14 @@
+name = "Paper Doll"
+filename = "PaperDoll-v4.0.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/hD0W2Wde/versions/Z1FHYb5j/PaperDoll-v4.0.0-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "3996bc8e0a1288df16776f299858072262c1d3b12c191cbece7b4f2a60333daf14252ad59f79ba06421e4df6d5795aa0a1c69eb91b769014a66509479f8403e8"
+
+[update]
+[update.modrinth]
+mod-id = "hD0W2Wde"
+version = "Z1FHYb5j"

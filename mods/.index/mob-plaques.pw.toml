@@ -1,0 +1,14 @@
+name = "Mob Plaques"
+filename = "MobPlaques-v4.0.1-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/3b1CFIR5/versions/n3Ce9mNi/MobPlaques-v4.0.1-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "055c339b60dea6ac3d0a9ccb1c6e2aa8fdf32ee4a6af8f1abbf9e240e4fed567fd17f446e8e672d1fd3fdf1638b9595acb55a591ad56c84da83df29a96950cfc"
+
+[update]
+[update.modrinth]
+mod-id = "3b1CFIR5"
+version = "n3Ce9mNi"

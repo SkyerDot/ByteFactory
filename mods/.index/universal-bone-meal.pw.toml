@@ -1,0 +1,14 @@
+name = "Universal Bone Meal"
+filename = "UniversalBoneMeal-v4.2.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/66VIiT1y/versions/uuvhNgzJ/UniversalBoneMeal-v4.2.0-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "21d109e7ef1bc46e4e034f70c92ad57d5de5526b527226a936758d79da892af1dc76a5e9b81bbdb7d05e3fb8332bdc58cfcbcc5d14718b6bf985cd97f8ef310b"
+
+[update]
+[update.modrinth]
+mod-id = "66VIiT1y"
+version = "uuvhNgzJ"

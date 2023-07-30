@@ -1,0 +1,14 @@
+name = "Easy Magic"
+filename = "EasyMagic-v4.3.3-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/yYI8kLD9/EasyMagic-v4.3.3-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "f1037ed7257e1aa2b1f3937263ce2d24f49fd1e18666af986dfaca0992d8999a97dd2c98d37a4f6538039ca52e14fcc52a186b88a15f3b029cdc273e4b9dbda8"
+
+[update]
+[update.modrinth]
+mod-id = "9hx3AbJM"
+version = "yYI8kLD9"

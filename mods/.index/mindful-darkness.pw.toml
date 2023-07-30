@@ -1,0 +1,14 @@
+name = "Mindful Darkness [Forge & Fabric]"
+filename = "MindfulDarkness-v4.0.9-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "afa2ae787048ee7bcffc600515a5f33ddc97d9f7"
+
+[update]
+[update.curseforge]
+file-id = 4568428
+project-id = 852669

@@ -1,0 +1,14 @@
+name = "Overflowing Bars"
+filename = "OverflowingBars-v4.0.1-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XD7XOrAF/versions/H2znAbYq/OverflowingBars-v4.0.1-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "8f7aa4ba9515b5de9c059175baaf10c89cd84709e1cb8373381df690b4c57ca75f755ca86e523840ef6b3e95712e9fb46cdea0f3e0eaaabd1eda0133d9c24b23"
+
+[update]
+[update.modrinth]
+mod-id = "XD7XOrAF"
+version = "H2znAbYq"

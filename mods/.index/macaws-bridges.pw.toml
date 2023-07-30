@@ -1,0 +1,14 @@
+name = "Macaw's Bridges"
+filename = "mcw-bridges-2.1.0-mc1.19.2forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "107a31a93322fbe20cd9c1a0950dfb62ce2c4bdf"
+
+[update]
+[update.curseforge]
+file-id = 4599799
+project-id = 351725

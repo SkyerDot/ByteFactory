@@ -1,0 +1,14 @@
+name = "Permanent Sponges"
+filename = "PermanentSponges-v4.0.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/p6prwv2Q/versions/XeeXid43/PermanentSponges-v4.0.0-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "f2988c91bf48bffefe8b45b4da2ca2cd933b68fc49ac07536fbae2d7ebb87e6dad4d22ff1c176feba6e1741187194ab55fe43d2dfb899c9f8befc658891b42d2"
+
+[update]
+[update.modrinth]
+mod-id = "p6prwv2Q"
+version = "XeeXid43"

@@ -1,0 +1,14 @@
+name = "Completionist's Index"
+filename = "CompletionistsIndex-v4.0.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iSCGCCV1/versions/py1eQ7t4/CompletionistsIndex-v4.0.0-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "49292074f5fa88beac0bf0d51a060acf3e84d40d77820dab7bfacf0d0d9fd027eaa2dee4023e830ade150b6f1e0ca651e426e9a62d47bfe5616d08555044f9cc"
+
+[update]
+[update.modrinth]
+mod-id = "iSCGCCV1"
+version = "py1eQ7t4"

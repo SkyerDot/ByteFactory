@@ -1,0 +1,14 @@
+name = "MC Story Mode Armors [Forge / Fabric]"
+filename = "mcsa-forge-3.1.4+1.19.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "048d4b42e475d7c36c3a6b9dc94510930a46b1a3"
+
+[update]
+[update.curseforge]
+file-id = 4481008
+project-id = 442332

@@ -1,0 +1,14 @@
+name = "Snow! Real Magic! ⛄"
+filename = "SnowRealMagic-1.19.2-forge-6.5.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iJNje1E8/versions/Lu9edWI0/SnowRealMagic-1.19.2-forge-6.5.3.jar"
+hash-format = "sha512"
+hash = "84fcbd06e9c09ceb7408c6f0a6a0e97b02e8716fa7eaac3808932354d141be41912377015e2a063d343d62471fa18334273d151d1b2c0fac42d4bb4e13976007"
+
+[update]
+[update.modrinth]
+mod-id = "iJNje1E8"
+version = "Lu9edWI0"

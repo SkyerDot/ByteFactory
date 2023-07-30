@@ -1,0 +1,14 @@
+name = "Stylish Effects"
+filename = "StylishEffects-v4.3.4-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/onDuQF5e/versions/4ku3sRk0/StylishEffects-v4.3.4-1.19.2-Forge.jar"
+hash-format = "sha512"
+hash = "f9ff1635a1cf40beb73ee218f3f2ff2200160812f02245dba604e434e43f92e9f8898012deced559965453fa32c8bc746ad0f7da833480f83ff7acd6006a31c3"
+
+[update]
+[update.modrinth]
+mod-id = "onDuQF5e"
+version = "4ku3sRk0"
