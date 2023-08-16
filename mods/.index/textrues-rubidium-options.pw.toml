@@ -1,0 +1,14 @@
+name = "TexTrue's Rubidium Options"
+filename = "TextruesRubidiumOptions-1.0.6-mc1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nm57myYP/versions/pVuf3Lgm/TextruesRubidiumOptions-1.0.6-mc1.19.2.jar"
+hash-format = "sha512"
+hash = "7e3775883b96ac8ecdcaf0251ead67555da86f35cfc5fbb4801b5adec2f9fda28494baf89b0b34cb874763397b6c8468cf69e3c1ffce155e9245bf256d09bedc"
+
+[update]
+[update.modrinth]
+mod-id = "nm57myYP"
+version = "pVuf3Lgm"

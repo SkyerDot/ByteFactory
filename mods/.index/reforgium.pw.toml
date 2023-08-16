@@ -1,0 +1,14 @@
+name = "Reforgium"
+filename = "reforgium-1.0.12a.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/vmn85VI7/versions/OcW1M8PC/reforgium-1.0.12a.jar"
+hash-format = "sha512"
+hash = "e8b1e6374dfe987fa228634bb48bd956a3e81b527ead162d8667a97d2d669cc09dd49b1cecbcea420f1b83a4eb553832422978264ea94b8c58b08c3971fb0eac"
+
+[update]
+[update.modrinth]
+mod-id = "vmn85VI7"
+version = "OcW1M8PC"

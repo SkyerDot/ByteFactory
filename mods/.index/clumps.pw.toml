@@ -1,0 +1,14 @@
+name = "Clumps"
+filename = "Clumps-forge-1.19.2-9.0.0+14.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/3GURrv52/Clumps-forge-1.19.2-9.0.0%2B14.jar"
+hash-format = "sha512"
+hash = "a0a53e450da757d61898d99b0f28d33483e57882212b0f29c0e8e66ada6a6b4b79fd55f5ffbd69329a488924269926c7405f945481ffe1ae2cfc97dcad7bbcf7"
+
+[update]
+[update.modrinth]
+mod-id = "Wnxd13zP"
+version = "3GURrv52"
