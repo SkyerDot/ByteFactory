@@ -1,0 +1,14 @@
+name = "Every Compat (Wood Good)"
+filename = "everycomp-1.19.2-2.5.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/t5FSiPlT/everycomp-1.19.2-2.5.1.jar"
+hash-format = "sha512"
+hash = "1253bbadfd4b60b53c26bc85a82d2085a8dc039cb668412c0fac10be090d0d85bfe4f7ead830cbc140e86b813aaf555c3eb3594261ce0033744a2e4cf1755093"
+
+[update]
+[update.modrinth]
+mod-id = "eiktJyw1"
+version = "t5FSiPlT"

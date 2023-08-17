@@ -1,0 +1,14 @@
+name = "Raised"
+filename = "raised-forge-1.19.2-2.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/H7vwnsim/raised-forge-1.19.2-2.0.0.jar"
+hash-format = "sha512"
+hash = "ef89dab278ec11e7033ec7746f99d7dc028fc2520b4535e05f11f537b87e2a4d2f2899c625ef7e5fb4b527fe6eb172ce883e003a6b1762d2e6183b98cbd5b175"
+
+[update]
+[update.modrinth]
+mod-id = "nCQRBEiR"
+version = "H7vwnsim"

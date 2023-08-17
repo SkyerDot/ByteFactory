@@ -1,0 +1,14 @@
+name = "Better Taskbar"
+filename = "bettertaskbar-forge-mc1.18.2-mc1.19.2-1.5.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/gPEcet33/versions/59c1IKOl/bettertaskbar-forge-mc1.18.2-mc1.19.2-1.5.1.jar"
+hash-format = "sha512"
+hash = "01a61281c80027ae54cb87c0beed6412edc6d755f9fdb141461e33d360ab2c7045af2fe13c78f7d9f7f82c6e232fc8b497d15c7172a354b3bc40f6ca2441fe72"
+
+[update]
+[update.modrinth]
+mod-id = "gPEcet33"
+version = "59c1IKOl"

@@ -1,0 +1,14 @@
+name = "Carpenter"
+filename = "carpenter-fabric-1.2.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "e5f1a1c6d5ee4550c7708afb0344ebadf389b96f"
+
+[update]
+[update.curseforge]
+file-id = 4673195
+project-id = 549446

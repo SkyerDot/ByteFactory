@@ -1,0 +1,14 @@
+name = "Memory Usage Screen"
+filename = "memoryusagescreen-forge-mc1.19-1.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/n9mFA0ax/versions/1.19-1.6-Forge/memoryusagescreen-forge-mc1.19-1.6.jar"
+hash-format = "sha512"
+hash = "009c86977ad0c3a4fce57cb805b53412e5d2e3032cea635749c6a8d5790aaf8a28c19436ca7615cda722f31d2f6a7badc266d9f660ab5d6fb84c22515c763c6c"
+
+[update]
+[update.modrinth]
+mod-id = "n9mFA0ax"
+version = "Nyn5QWAV"

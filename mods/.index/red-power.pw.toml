@@ -1,0 +1,14 @@
+name = "Red Power"
+filename = "red_power-1.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "e865deab869f671a5a96bbf7e51454959cfa3e04"
+
+[update]
+[update.curseforge]
+file-id = 4527059
+project-id = 849518
